@@ -332,6 +332,10 @@ header.sticky{
 	cursor: pointer;
 }
 
+.hide {
+	display: none;
+}
+
 #contact{
 	background: var(--main-color);
 }
@@ -419,6 +423,7 @@ header.sticky{
 	  transition: .2s;
 	}
 }
+
 
 @media (max-width: 1040px){
 	#menu-icon{
